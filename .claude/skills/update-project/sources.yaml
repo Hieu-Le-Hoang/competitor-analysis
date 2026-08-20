@@ -1,0 +1,24 @@
+# update-project — khai báo nguồn data của project này.
+# Lazy: để trống lúc init cũng được; chạy "update project" lần đầu skill sẽ hỏi rồi tự lấp vào đây.
+#
+# Mỗi nguồn:
+#   name:   id ngắn (dùng để lọc: "update <name>")
+#   type:   gsheet | github | excel | http | dataverse | script
+#   source: locator — URL / ID / file path / query / đường dẫn script
+#   dest:   ghi vào đâu (relative từ project root)
+#   mode:   overwrite (default) | append
+#   auth:   (optional) TÊN key trong settings.json — KHÔNG paste key vào đây
+#
+# Ví dụ:
+# sources:
+#   - name: process-catalog
+#     type: gsheet
+#     source: "https://docs.google.com/spreadsheets/d/..."
+#     dest: kb/processes/
+#     mode: overwrite
+#   - name: azure-billing
+#     type: script
+#     source: scripts/pull-azure-billing.ps1
+#     dest: data/azure-billing.json
+
+sources: []
