@@ -1,10 +1,16 @@
 # Index — Nghiên cứu đối thủ thầu
 
-> ⚠️ **Đây là bản HỒ SƠ GỐC dành cho người kiểm chứng, không phải bản để đọc.**
-> Nó chứa ghi chú kỹ thuật, nhật ký tra cứu, ký hiệu nội bộ và cả những mũi đã bị loại bỏ.
+> ⛔ **KHÔNG MANG THƯ MỤC NÀY THEO KHI GẶP NHÀ TRƯỜNG.**
+> Đây là bản hồ sơ gốc dành cho người kiểm chứng, viết theo khung "nghiên cứu đối thủ cạnh tranh" —
+> nó chứa ghi chú kỹ thuật, nhật ký tra cứu, suy đoán chưa xác minh và cả những mũi đã bị loại bỏ.
+> Để lộ ra ngoài là hỏng toàn bộ cuộc trình bày.
 > **Người đọc thông thường vào [README ở thư mục gốc](../README.md)** — bản đã lọc sạch, tiếng Việt thường:
-> [đối thủ là ai](../01-doi-thu-la-ai.md) · [bảng luận điểm bất lợi](../02-bang-luan-diem-bat-loi.md) ·
-> [cách dùng và điều cấm](../03-cach-dung-va-dieu-cam.md).
+> [hồ sơ công ty](../01-ho-so-cong-ty.md) · [các điểm chưa tốt](../02-cac-diem-chua-tot.md) ·
+> [phụ lục trích dẫn và nguồn](../03-phu-luc-trich-dan-va-nguon.md) ·
+> [bản trình Hiệu trưởng](../04-ban-trinh-hieu-truong.md).
+>
+> ⛔ [Hướng dẫn trình bày và điều cấm](huong-dan-trinh-bay-NOI-BO.md) là file **nội bộ**, cùng mức bảo
+> mật với thư mục này — cũng không mang theo khi gặp Nhà trường.
 
 Due diligence đối thủ trong đấu thầu. Mỗi file evidence là dữ liệu thô có trích dẫn;
 kết luận nằm ở `findings.md`.

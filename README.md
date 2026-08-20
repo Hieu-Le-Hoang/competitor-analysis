@@ -1,76 +1,92 @@
-# Hồ sơ đối thủ — Nam Phong Tây Đô
+# Tài liệu về đơn vị trúng đấu giá mặt bằng căng tin
 
-Tài liệu phục vụ việc cạnh tranh gói **căng tin trường đại học / bệnh viện**.
-Đối thủ: **Công ty TNHH Đầu tư Siêu thị Nam Phong Tây Đô** — mã số thuế **6300233207**.
+**Đơn vị được đề cập:** Công ty TNHH Đầu tư Siêu thị Nam Phong Tây Đô — mã số thuế 6300233207.
+
+**Gói việc liên quan:** đấu giá quyền thuê mặt bằng căng tin Trường Đại học Quy Nhơn.
+
+**Thời điểm chốt số liệu:** ngày 20/08/2026.
 
 ---
 
-## Đọc gì trước
+## Mục đích
 
-| Bạn cần gì | Mở file này |
+Phiên đấu giá đã kết thúc ngày **18/08/2026** và đã có đơn vị trúng. Việc còn lại là **bước ký hợp
+đồng**. Bộ tài liệu này được lập để Nhà trường có căn cứ **chưa ký hợp đồng cho đến khi hoàn tất các
+điều kiện tiên quyết**.
+
+Kết quả đấu giá hợp lệ và **không thuộc phạm vi đề cập** — bộ tài liệu không đề nghị xem xét lại
+kết quả đó.
+
+---
+
+## Bộ tài liệu gồm 4 phần
+
+| Phần | Nội dung |
 |---|---|
-| **Chỉ có 3 phút** | Đọc mục *Chốt nhanh* ngay bên dưới |
-| Biết đối thủ là ai, mạnh yếu ra sao | [01 · Đối thủ là ai](01-doi-thu-la-ai.md) |
-| **Danh sách điểm bất lợi của đối thủ** | ★ [02 · Bảng tổng hợp luận điểm bất lợi](02-bang-luan-diem-bat-loi.md) |
-| Sắp phát biểu / nộp hồ sơ / vào phiên đấu | 🔴 [03 · Cách dùng và điều cấm](03-cach-dung-va-dieu-cam.md) — **bắt buộc đọc trước khi nói ra ngoài** |
-| Tra nguồn gốc từng câu, từng con số | [Hồ sơ chi tiết](ho-so-chi-tiet/) |
+| **1 · Hồ sơ đơn vị trúng đấu giá** | Thông tin đăng ký, lĩnh vực hoạt động, các cơ sở đã khai thác, danh sách chi nhánh |
+| **2 · Các nội dung cần lưu ý** | 11 nội dung công khai kèm mức độ xác minh và kiến nghị đối với từng nội dung |
+| **3 · Phụ lục trích dẫn và nguồn** | Nguyên văn 7 trích dẫn và danh mục đầy đủ đường dẫn nguồn để đối chiếu |
+| **4 · Bản trình** | Văn bản tóm tắt kính trình lãnh đạo Nhà trường, kèm bốn điều kiện tiên quyết |
 
 ---
 
-## Chốt nhanh
+## Tóm tắt
 
-**Điểm bất lợi mạnh nhất của đối thủ: họ có tiền lệ trúng giá cao rồi xin giảm giá.**
+Đơn vị trúng đấu giá đã tham gia và trúng đấu giá **hợp lệ** theo đúng trình tự do tổ chức đấu giá
+thực hiện. Bộ tài liệu này **không nhằm đề nghị xem xét lại kết quả đấu giá** — toàn bộ nội dung chỉ
+liên quan đến **bước ký hợp đồng**.
 
-Tại Bệnh viện Nhi đồng TP Cần Thơ, họ trúng mặt bằng căng tin và nhà ăn với giá **161 triệu đồng/tháng**,
-sau đó xin giảm và được chấp thuận — tổng giá trị điều chỉnh **hơn 2 tỷ đồng**. Ở cùng bệnh viện đó họ
-còn một hợp đồng thứ hai (siêu thị 48 triệu/tháng) và **hợp đồng này cũng được giảm 50%**.
+Nội dung chính được tổng hợp từ nguồn công khai:
 
-Việc giảm giá đó bị kết luận là **chưa được cấp trên phê duyệt**, và **nguyên Giám đốc bệnh viện đã bị
-kỷ luật khiển trách**.
+Tại Bệnh viện Nhi đồng thành phố Cần Thơ, đơn vị này trúng mặt bằng căng tin và nhà ăn dinh dưỡng với
+giá **161 triệu đồng/tháng**, sau đó đề nghị giảm giá và được chấp thuận — tổng giá trị điều chỉnh
+**hơn 2 tỷ đồng**. Tại cùng bệnh viện đó, đơn vị còn một hợp đồng thứ hai là mặt bằng siêu thị
+48 triệu đồng/tháng, và hợp đồng này **cũng được giảm 50%**.
 
-**Điểm bất lợi sạch nhất, dễ dùng nhất: họ không có cơ sở nào tại địa bàn.** Cả 5 chi nhánh đều ở xa —
-gần nhất khoảng 350 km, xa nhất 1.000 km. Với một căng tin phải mở cửa từ 5g sáng tới 22g30 mỗi ngày,
-đây là câu hỏi năng lực hoàn toàn hợp lý mà không đụng tới bất kỳ cáo buộc nào.
+Việc miễn giảm nêu trên bị kết luận là **chưa được cấp thẩm quyền phê duyệt**, và nguyên Giám đốc
+bệnh viện **đã bị kỷ luật khiển trách**.
 
-**Điều phải nhớ kỹ:**
+**Cần nêu rõ:** sai phạm hành chính trong vụ việc này được kết luận thuộc về **bệnh viện**, không phải
+thuộc về công ty. Công ty là bên được hưởng khoản giảm giá, không phải bên bị kết luận vi phạm. Đơn vị
+này cũng không bị cấm tham gia đấu thầu, không có bản án nào, và không tìm thấy công bố nợ thuế.
 
-- Đối thủ **không bị cấm thầu, không có bản án, không bị công bố nợ thuế**. Nói quá lên là mình mất uy tín.
-- Sai phạm hành chính trong vụ bệnh viện là **của bệnh viện**, không phải của công ty. Công ty là **bên
-  được hưởng lợi**.
-- Có một con số **2,8 tỷ đồng** đang lan truyền trên mạng gắn với đối thủ. **Đó là con số của một công
-  ty khác.** Không dùng. Xem [file 03](03-cach-dung-va-dieu-cam.md).
-- Nguyên tắc duy nhất khi dùng hồ sơ này: **HỎI, không TỐ**. Biến mọi thông tin thành câu hỏi làm rõ áp
-  cho tất cả các bên tham gia.
-
----
-
-## Cách hồ sơ này đánh dấu độ tin cậy
-
-Không phải thông tin nào cũng chắc như nhau. Mỗi mục đều có ký hiệu:
-
-- 🟢 **Chắc** — có báo chí lớn hoặc kết luận cơ quan nhà nước, trích nguyên văn được
-- 🟡 **Gần chắc** — sự việc có thật nhưng nguồn không nêu đích danh tên công ty, hoặc là cách hiểu của mình
-- ⚪ **Chưa rõ** — mới là nghi vấn, **không được nói ra ngoài**
-
-> **Không tìm thấy thông tin** ≠ **không có vi phạm**. Nguồn công khai ở Việt Nam thường không đầy đủ.
-> Nhưng khi trình bày ra ngoài thì phải nói đúng là *"không tìm thấy"*.
+**Ý nghĩa đối với Nhà trường:** giá trúng đấu giá là căn cứ dự toán nguồn thu trong nhiều năm. Khi bên
+thuê đề nghị điều chỉnh giá sau khi đã ký, trách nhiệm giải trình thuộc về đơn vị quản lý tài sản công.
+Tiền lệ nêu trên cho thấy điều khoản hợp đồng **không tự nó ngăn được** tình huống này — hai hợp đồng
+tại bệnh viện đều đã có đủ điều khoản mà vẫn được điều chỉnh giảm.
 
 ---
 
-## Cấu trúc thư mục
+## Đề nghị
 
-```
-README.md                        <- bạn đang ở đây
-01-doi-thu-la-ai.md              <- chân dung đối thủ
-02-bang-luan-diem-bat-loi.md     <- ★ bảng tổng hợp điểm yếu của đối thủ
-03-cach-dung-va-dieu-cam.md      <- 🔴 cách dùng an toàn + phát ngôn cấm
+> **Chưa ký hợp đồng** cho đến khi đơn vị trúng đấu giá hoàn tất bốn điều kiện tiên quyết dưới đây.
 
-ho-so-chi-tiet/                  <- toàn bộ tài liệu nghiên cứu gốc
-```
+Bốn nội dung này **áp dụng cho mọi đơn vị thuê mặt bằng**, và đều là những thứ Nhà trường hoàn toàn
+chủ động yêu cầu được **trước khi đặt bút ký**:
 
-Thư mục `ho-so-chi-tiet/` là bản đầy đủ dành cho người cần kiểm chứng từng chi tiết — có ghi chú kỹ
-thuật, nhật ký tra cứu, và toàn bộ đường link đã truy cập. **Người đọc thông thường không cần mở.**
+1. **Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm cho cơ sở tại Quy Nhơn** — giấy này cấp theo
+   từng cơ sở tại một địa điểm cụ thể, nên giấy ở địa phương khác không dùng thay được.
+2. **Phương án nhân sự thường trực tại địa bàn**, họ tên và số điện thoại người phụ trách trực tiếp
+   tại Quy Nhơn, kèm cam kết khung giờ phục vụ tối thiểu.
+3. **Bảo đảm thực hiện hợp đồng** bằng tiền hoặc bảo lãnh ngân hàng, nộp trước hoặc đồng thời với thời
+   điểm ký, duy trì suốt thời hạn hợp đồng.
+4. **Cam kết bằng văn bản không đề nghị điều chỉnh giá thuê**, trừ bất khả kháng được cơ quan có thẩm
+   quyền công nhận, kèm chế tài cụ thể.
+
+**Vì sao hoàn tất trước chứ không ràng buộc sau:** đơn vị trúng đấu giá không có chi nhánh, cơ sở hay
+tài sản nào tại Gia Lai hoặc Bình Định — gần nhất cách khoảng 350 km. Chế tài chỉ có giá trị khi cưỡng
+chế được tại địa bàn.
 
 ---
 
-*Cập nhật: 20/08/2026*
+## Phạm vi và giới hạn của bộ tài liệu
+
+- Toàn bộ nội dung lấy từ **báo chí chính thống và các cổng tra cứu công khai**. Không sử dụng nguồn
+  nội bộ hay nguồn không kiểm chứng được.
+- **Chưa tiếp cận được văn bản gốc đóng dấu.** Nội dung về vụ việc tại Bệnh viện Nhi đồng đều dẫn từ
+  báo chí đăng tải lại kết luận của Sở Y tế thành phố Cần Thơ.
+- Một số cổng tra cứu của cơ quan nhà nước không truy cập được, nên các nội dung ghi *"không tìm thấy"*
+  là **kết quả tra cứu chưa đầy đủ**, không phải kết luận.
+- Những nội dung chưa xác minh được đã được nêu đúng như vậy, **không suy diễn và không kết luận thay**.
+
+Nguyên văn trích dẫn và toàn bộ đường dẫn nguồn: xem [phần 3 — phụ lục](03-phu-luc-trich-dan-va-nguon.md).
