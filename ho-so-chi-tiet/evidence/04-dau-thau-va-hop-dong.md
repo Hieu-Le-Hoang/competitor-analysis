@@ -265,6 +265,7 @@ Những mục sau **không tìm thấy dữ liệu công khai** — cần đọc
 6. **Tổng giá trị trúng thầu lũy kế** — bị ẩn. Chỉ tổng hợp được 2.000.593.760 VND từ 3 gói đọc được.
 7. **Hoạt động 2024–2026** — 0 bản ghi. Chưa xác định được đây là do công ty ngừng dự thầu, hay do dữ liệu chưa được thu thập/đăng tải.
 8. **Chi nhánh và HỘ KINH DOANH NAM PHONG** — không có hồ sơ nhà thầu; chưa loại trừ khả năng có đăng ký nhưng chưa dự gói nào.
+9. **Gói trượt thứ 9 — lệch số chưa giải thích được.** `[UNVERIFIED]` Trang hồ sơ nhà thầu ghi **14 tham dự / 5 trúng / 9 trượt**, nhưng trang "nhà thầu từng đối đầu" chỉ ghi **8 gói** có đối đầu (*"thắng 0, thua 8, 0 chưa có kết quả, 0 gói đã bị huỷ"*). Hai con số này lệch nhau 1 gói và **không nguồn nào giải thích**. Các khả năng — gói bị huỷ không tính vào thống kê đối đầu, gói không chọn được nhà thầu, hoặc hai trang đếm theo hai định nghĩa khác nhau — đều **chưa có bằng chứng**, KHÔNG được viết như đã xác minh. Cách kiểm: đối chiếu đủ 14 bản ghi KQLCNT trên muasamcong.mpi.gov.vn theo MST `6300233207` (hiện mới đọc được 7/14).
 
 ### Chủ thể dễ nhầm lẫn (MST khác — KHÔNG phải đối tượng)
 

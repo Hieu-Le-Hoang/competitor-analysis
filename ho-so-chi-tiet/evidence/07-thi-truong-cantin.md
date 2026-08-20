@@ -141,6 +141,80 @@ browser thật**. Hai URL dưới đây đã được Google index khớp từ k
 > Đây là **hai địa chỉ cụ thể** để mở bằng browser thật, không phải "đi tìm mò". Nếu mở được, có thể ra thêm
 > cuộc đấu giá chưa ai biết — tức lấp đúng ô trống lớn nhất của mảng này.
 
+#### 🔴 Đã thử bằng browser thật (Chrome qua MCP) — VẪN BỊ CHẶN
+
+**Chạy 2026-08-20 23:03 GMT+7.** Kết quả: **`GET https://dgts.moj.gov.vn/` → HTTP 403**, trang trả về nguyên văn:
+
+> "Sorry, you have been blocked" · Request-ID `6a872559_VM-HAN-01UO0205_18773-60899` · Your IP `118.68.105.243`
+
+**Không phải chặn theo IP** — cùng IP đó, **Microsoft Edge của người dùng vào bình thường**. WAF chặn theo
+**dấu vân tay automation**: `navigator.webdriver` trong Chrome-MCP trả về **`true`** (đọc trực tiếp bằng
+`evaluate_script`), profile trắng không cookie, `navigator.languages = ["en-US","en"]`.
+
+| | Edge (người dùng) | Chrome-MCP |
+|---|---|---|
+| `navigator.webdriver` | `false` | **`true`** ← điểm chết |
+| Profile | có cookie/history, đã qua challenge nhiều lần | `~/.cache/chrome-devtools-mcp/chrome-profile`, trắng tinh |
+| `navigator.languages` | `vi-VN,vi,…` | `en-US,en` |
+
+WAF là **FEC** — thấy qua `_fec_sbu/fec_wrapper.js` + `hxk_fec_16b50213.js`. Hai script này tải về
+**200/304 bình thường** nhưng **document gốc trả 403 ngay** → chặn ở tầng request đầu tiên theo fingerprint,
+không phải "challenge chạy rồi trượt". `[VERIFIED — về giới hạn kỹ thuật]`
+
+> **Chốt cho hướng này:** `dgts.moj.gov.vn` **không tra được bằng bất kỳ công cụ tự động nào** — WebFetch,
+> curl, proxy, lẫn browser điều khiển qua CDP. Chỉ còn **người thật mở bằng browser thường**. Ghi lại để
+> không ai tốn thêm lượt thử.
+
+#### ★★ Ba chuyên mục trên cổng chưa ai mở — hướng mới
+
+Trang chủ `dgts.moj.gov.vn` (đọc qua Edge của người dùng) có khối *"Tin tức cập nhật"* gồm 3 chuyên mục
+mà **cả hai hồ sơ chưa từng tra**:
+
+| Chuyên mục | Vì sao đáng |
+|---|---|
+| **Huỷ kết quả đấu giá** | 🔴 Vụ 1/2021 ở [05 mục A1-ter](05-phap-ly-va-cong-dong.md) *chính là* một vụ huỷ kết quả. Có bản ghi kèm **tên đầy đủ** → nâng A1-ter lên `[VERIFIED]` |
+| **Cấm tham gia đấu giá** | Bản đối ứng bên đấu giá của "danh sách nhà thầu bị cấm thầu". Con số *"0 quyết định cấm thầu"* trong findings mục D lấy từ hệ thống **đấu thầu mua sắm**, **không phủ mảng này** |
+| TCHNĐG không thông báo công khai | Về tổ chức hành nghề đấu giá, không phải bên tham gia — giá trị thấp hơn |
+
+⚠️ Cổng vận hành theo Luật Đấu giá tài sản sửa đổi, **dữ liệu 2021 có thể chưa số hoá**. Không thấy tên
+= *"cổng không có dữ liệu giai đoạn đó"*, **KHÔNG phải** *"không có vụ nào"*. `[UNVERIFIED — chưa tra]`
+
+> 🔴 **Đã thử bấm 2026-08-20 (người dùng, bằng Edge): cả 3 chuyên mục đều lỗi `DNS_PROBE_FINISHED_NXDOMAIN`.**
+> `[UNVERIFIED — chưa tra được, KHÔNG phải "đã tra và không có"]`
+>
+> **URL chính xác của 2 chuyên mục đáng giá** (lấy từ thanh địa chỉ khi bấm):
+>
+> | Chuyên mục | URL |
+> |---|---|
+> | Huỷ kết quả đấu giá | `https://dgts.moj.gov.vn/portal/news?categoryId=608` |
+> | Cấm tham gia đấu giá | `https://dgts.moj.gov.vn/portal/news?categoryId=607` |
+>
+> **Nguyên nhân đã chẩn ra — KHÔNG phải cổng hỏng, KHÔNG phải login-wall, KHÔNG phải WAF:**
+> DNS của ISP không phân giải nổi chuỗi CNAME của domain. `nslookup` từ chính máy đó:
+>
+> ```
+> DNS mặc định (router 192.168.1.1 -> ISP):  Name: dgts.moj.gov.vn   <- RỖNG, không IP
+> DNS 8.8.8.8:  dgts.moj.gov.vn -> dgts.moj.gov.vn.wcdnga.com
+>               -> 42.113.11.108 · 117.0.17.208 · 14.225.21.157 · 14.225.221.74
+> DNS 1.1.1.1:  -> 117.0.17.208
+> ```
+>
+> Cổng **CNAME sang `wcdnga.com`** (CDN nội địa). Resolver ISP trả tên nhưng rỗng địa chỉ → `NXDOMAIN`.
+> **Cách khắc phục: đổi DNS máy sang `1.1.1.1` / `8.8.8.8` rồi `ipconfig /flushdns`.** `[VERIFIED — nslookup 3 resolver]`
+>
+> Đây cũng là nguyên nhân Chrome-MCP báo `ERR_NAME_NOT_RESOLVED` ở 2 URL `exportWord` — cùng máy, cùng DNS
+> hỏng. Tách bạch với vụ **403 WAF** ở trên: 403 là có thật và xảy ra khi DNS còn chạy được.
+>
+> **Kết luận đúng phải ghi:** *"chưa đọc được danh sách cấm tham gia đấu giá và danh sách huỷ kết quả đấu
+> giá — nội dung nằm sau login-wall của cổng"*.
+>
+> ⛔ **TUYỆT ĐỐI KHÔNG** viết thành *"đối thủ không nằm trong danh sách cấm tham gia đấu giá"*. Chưa hề mở
+> được danh sách đó. Đây đúng loại lỗi mà [intent.md](../intent.md) nguyên tắc 3 cảnh báo: nhầm
+> **"không tra được"** thành **"không có"**.
+>
+> **Hệ quả cho findings mục D:** dòng *"0 quyết định cấm thầu"* vẫn chỉ đúng cho mảng **đấu thầu mua sắm**.
+> Mảng **đấu giá** hiện là **ô trống chưa mở được**, không phải ô trống đã kiểm.
+
 ---
 
 ## 3 · Dấu chân thực tế trong mảng căng tin / mặt bằng

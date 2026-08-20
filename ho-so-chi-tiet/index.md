@@ -1,5 +1,11 @@
 # Index — Nghiên cứu đối thủ thầu
 
+> ⚠️ **Đây là bản HỒ SƠ GỐC dành cho người kiểm chứng, không phải bản để đọc.**
+> Nó chứa ghi chú kỹ thuật, nhật ký tra cứu, ký hiệu nội bộ và cả những mũi đã bị loại bỏ.
+> **Người đọc thông thường vào [README ở thư mục gốc](../README.md)** — bản đã lọc sạch, tiếng Việt thường:
+> [đối thủ là ai](../01-doi-thu-la-ai.md) · [bảng luận điểm bất lợi](../02-bang-luan-diem-bat-loi.md) ·
+> [cách dùng và điều cấm](../03-cach-dung-va-dieu-cam.md).
+
 Due diligence đối thủ trong đấu thầu. Mỗi file evidence là dữ liệu thô có trích dẫn;
 kết luận nằm ở `findings.md`.
 
@@ -35,5 +41,5 @@ thứ đổi cách mình trả giá), **A1** (trúng giá cao rồi xin giảm),
 
 ## Quy ước
 
-- Mọi claim gắn marker `[VERIFIED]` / `[INFERRED]` / `[UNVERIFIED]` / `[OUTDATED?]` / `[CONFLICT]` — xem §3 [CLAUDE.md](CLAUDE.md).
+- Mọi claim gắn marker `[VERIFIED]` / `[INFERRED]` / `[UNVERIFIED]` / `[OUTDATED?]` / `[CONFLICT]` — xem §3 [CLAUDE.md](../CLAUDE.md).
 - Mọi chủ thể neo vào **MST**, không neo vào tên thương hiệu. Lý do: xem mục cảnh báo trùng tên trong `findings.md`.

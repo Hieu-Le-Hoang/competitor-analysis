@@ -175,6 +175,12 @@ Ba lỗi một gói + **không liên lạc được**. Căn cứ trực tiếp v
 
 > ⚠️ **Giới hạn:** đây là thành tích ở mảng **mua sắm hàng hoá**, không phải căng tin. Xem A4.
 
+> 🔴 **Lệch chưa giải thích được:** 14 tham dự − 5 trúng = **9 trượt**, nhưng chỉ **8** gói được ghi
+> nhận là có đối đầu. Không tìm được nguồn nói gói trượt thứ 9 rơi vào đâu. `[UNVERIFIED]`
+> Chỉ đọc được **7/14** gói (7 gói ẩn sau tường VIP3 DauThau.info); mệnh đề "cả 5 gói trúng đều không
+> có đối thủ" xác minh trực tiếp được ở **3 gói** (mục *Danh sách nhà thầu không trúng thầu* rỗng),
+> 2 gói còn lại suy từ thống kê `[INFERRED]`.
+
 ### A4. Ngừng hoạt động đấu thầu từ 2024 + phí hệ thống hết hạn `[VERIFIED]`
 
 | Năm | Trúng | Trượt |
@@ -341,6 +347,8 @@ Chi tiết + link mẫu: [evidence/07](evidence/07-thi-truong-cantin.md#1--cải
 | 0 | **TAND quận Ninh Kiều, TP Cần Thơ** — lịch xét xử / thông báo thụ lý công khai | ★★ **Ưu tiên cao nhất giờ.** Đã biết có vụ *tranh chấp hợp đồng dân sự* về tiền thuê mặt bằng BV Nhi đồng (A1b) — cần biết **bên bị kiện là ai** |
 | 0b | **Sở Y tế TP Cần Thơ** — yêu cầu cung cấp thông tin theo Luật Tiếp cận thông tin | Xin toàn văn **Thông báo số `5309/TB-SYT`**. Có toàn văn = thay hết trích dẫn báo chí gián tiếp bằng nguồn cấp 1 |
 | 1 | [congbobanan.toaan.gov.vn](https://congbobanan.toaan.gov.vn/) (lỗi SSL) | "Nam Phong Tây Đô" + "Huỳnh Ngọc Quyên" — tìm cả tên **Bệnh viện Nhi đồng TP Cần Thơ** để bắt vụ ở A1b khi có hiệu lực |
+| 1b | ★★ **Huỷ kết quả đấu giá** — `dgts.moj.gov.vn/portal/news?categoryId=608` ⚠️ cần đổi DNS sang `1.1.1.1`/`8.8.8.8` trước, ISP không phân giải được CNAME của domain | 🔴 **Hướng mới 2026-08-20, giá trị cao nhất còn lại.** Vụ 1/2021 ở mục **A1d** *chính là* một vụ huỷ kết quả (trúng 312tr rồi không ký, mất cọc 288tr). Nếu cổng có bản ghi kèm **tên đầy đủ**, nó **nâng A1d từ `[INFERRED]` lên `[VERIFIED]`** — gỡ được chỗ báo viết tắt "Công ty T.Đ.". ⚠️ Dữ liệu 2021 có thể chưa số hoá → không thấy = *"cổng không có dữ liệu giai đoạn đó"*, **KHÔNG phải** *"vụ không tồn tại"* |
+| 1c | ★ **Cấm tham gia đấu giá** — `dgts.moj.gov.vn/portal/news?categoryId=607` (cùng cách sửa DNS như 1b) | Lấp ô trống thật trong mục **D**. Dòng *"0 quyết định cấm thầu"* hiện lấy từ hệ thống **đấu thầu mua sắm** — **không phủ mảng đấu giá**. Đúng lỗ hổng mà [evidence/07 §1](evidence/07-thi-truong-cantin.md) đã cảnh báo |
 | 2 | **`dgts.moj.gov.vn/portal/exportWord?aucInfoId=`** — **`60422`** và **`72469`** | ★★ **Hai URL cụ thể, không phải tìm mò.** Google index khớp từ khoá "Nam Phong"/"Nam Phong Tây Đô" nhưng trả 406 với mọi cách fetch — cổng chặn bằng WAF JS-challenge. **Mở bằng browser thật là ra.** Có `chrome-devtools` MCP trong session này → làm được ngay |
 | 2b | [dgts.moj.gov.vn](https://dgts.moj.gov.vn/) · [taisancong.vn](https://taisancong.vn/) — ô tìm kiếm | Đúng hệ thống cho mảng căng tin. Nút search là `javascript:void(0)` submit AJAX → **bắt buộc gõ tay vào ô**, không tra được bằng URL |
 | 3 | Chi cục ATTP / Sở Y tế Cần Thơ, Bình Dương | Giấy chứng nhận đủ điều kiện ATTP + có bị xử phạt không |
