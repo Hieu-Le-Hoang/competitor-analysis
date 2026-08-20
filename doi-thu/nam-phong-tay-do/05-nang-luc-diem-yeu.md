@@ -32,13 +32,35 @@ Tin tuyển dụng toàn vị trí phổ thông, yêu cầu thấp — ví dụ 
 
 ## Phần B · Điểm yếu khai thác được — xếp theo độ dùng được
 
-### 1. Kinh nghiệm hợp đồng tương tự — mũi nhọn số một
+> ⚡ **CẬP NHẬT VÒNG 3 (20/08/2026).** Gói đang cạnh tranh là **căng tin trường đại học và bệnh viện**
+> → **đúng sân nhà của họ**. Mọi mũi dựa trên "họ thiếu kinh nghiệm lĩnh vực" đã chết.
+> Bảng dưới đã cập nhật theo. Mũi mới cho mảng căng tin: [07-cantin-mat-bang.md](07-cantin-mat-bang.md).
+
+### 0. Lý do bị loại có văn bản — mũi nhọn mới, `[VERIFIED]`
 
 | | |
 |---|---|
-| **Cơ sở** | Số liệu đấu thầu mâu thuẫn: "14 gói thắng 5" vs "8 gói **thắng 0**". Nếu bộ số thứ hai đúng thì họ **chưa từng trúng gói nào** |
-| **Tin cậy** | `[UNVERIFIED]` — nguồn bị khoá, xem [01-lich-su-dau-thau.md](01-lich-su-dau-thau.md) |
-| **Cần gì để chốt** | Tra muasamcong.mpi.gov.vn (đăng nhập) hoặc dauthau.info trả phí theo MST 6300233207. **Đây là việc đáng làm nhất còn lại** |
+| **Cơ sở** | Quyết định **262/QĐ-BVTTTG** (BV Tâm thần Tiền Giang) loại HSDT của họ: *"không cung cấp hồ sơ dự thầu bảng giấy theo quy định, không kèm hồ sơ, tài liệu chứng minh năng lực kinh nghiệm. Tổ chuyên gia đã nhiều lần liên hệ với công ty nhưng không được"* + *"mặt hàng không đúng với các thông số kỹ thuật"* |
+| **Tin cậy** | `[VERIFIED]` — văn bản của bên mời thầu, có URL, xem [01-lich-su-dau-thau.md](01-lich-su-dau-thau.md) |
+| **Cách dùng** | Dẫn chứng về **tính nghiêm túc khi làm hồ sơ và khả năng phối hợp**, dùng khi HSMT có tiêu chí uy tín thực hiện hợp đồng. ⛔ **KHÔNG** gọi là "vi phạm" — đây không phải quyết định xử phạt hay cấm thầu |
+
+### 1. Kinh nghiệm hợp đồng tương tự — ✅ ĐÃ CHỐT SỐ LIỆU
+
+| | |
+|---|---|
+| **Cơ sở** | `[CONFLICT]` cũ đã giải: **14 gói tổng** (trúng 5, trượt 9) và **8 gói đối đầu** (thắng 0, thua 8) là hai chỉ số khác nhau, **cả hai đều đúng**. → 5 gói trúng đều **không có đối thủ dự cùng**, 1 gói là chỉ định thầu rút gọn |
+| **Tin cậy** | `[VERIFIED]` — đọc được trang gốc vòng 3, 7/14 gói có URL xác minh |
+| **Bổ sung mạnh hơn** | **0 gói từ 2024 đến nay**; phí MSC *"đã nộp nhưng hiện tại hết hạn"*; hợp đồng BV Nhi Đồng hết hạn **3/2024** |
+| **Cách dùng** | Yêu cầu chứng minh **hợp đồng tương tự đang thực hiện hoặc hoàn thành trong 3 năm gần nhất**. Theo dữ liệu công khai, họ không có. Nếu họ dẫn BV Nhi Đồng thì đó là hợp đồng đã kết thúc hơn 2 năm |
+| **Còn thiếu** | 7/14 gói sau paywall VIP3 (trong đó 2 gói đã trúng chưa rõ giá trị); chưa đối chiếu nguồn gốc muasamcong |
+
+### 1b. Điều kiện an toàn thực phẩm — mũi đáng đào nhất cho gói căng tin
+
+| | |
+|---|---|
+| **Cơ sở** | Nhà ăn dinh dưỡng bệnh viện và căng tin trường học là **ngành kinh doanh có điều kiện**. Có mã ngành đăng ký (5610, 5629, 1075) **không đồng nghĩa** có Giấy chứng nhận cơ sở đủ điều kiện ATTP còn hiệu lực |
+| **Tin cậy** | `[UNVERIFIED]` — chưa tra được, cổng ATTP/QLTT không cho tra theo MST |
+| **Cần gì để chốt** | Chi cục ATTP / Sở Y tế Cần Thơ và Bình Dương: giấy chứng nhận còn hiệu lực không, có bị xử phạt ATTP lần nào không |
 
 ### 2. Năng lực tài chính — chưa rõ, nghi mỏng
 
