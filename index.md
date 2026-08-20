@@ -21,6 +21,14 @@ Không dùng `[INFERRED]` / `[UNVERIFIED]` làm căn cứ trong hồ sơ thầu 
 | [05 · Năng lực & điểm yếu](doi-thu/nam-phong-tay-do/05-nang-luc-diem-yeu.md) | Hoạt động thực tế + điểm yếu khai thác được theo tiêu chí HSMT |
 | [06 · Review & báo chí](doi-thu/nam-phong-tay-do/06-review-danh-gia.md) | Review khách hàng/nhân viên + hồ sơ báo chí vụ thanh tra BV Nhi Đồng Cần Thơ |
 
+**Vòng 2** — mở lại các hướng đã tắc bằng nguồn khác ([vì sao có vòng 2](doi-thu/nam-phong-tay-do/vong-2/index.md)):
+
+| File | Nội dung |
+|---|---|
+| [07 · Đấu giá tài sản](doi-thu/nam-phong-tay-do/vong-2/07-dau-gia-tai-san.md) | Cổng dgts.moj.gov.vn, bốn công ty dự phiên đấu giá 2021, vụ tranh chấp tại TAND quận Ninh Kiều |
+| [08 · Xác minh chi nhánh](doi-thu/nam-phong-tay-do/vong-2/08-xac-minh-chi-nhanh.md) | Chi nhánh nào vận hành thật, kiểm bằng danh sách hành chính thay Google Maps |
+| [09 · Tài chính & pháp nhân](doi-thu/nam-phong-tay-do/vong-2/09-tai-chinh-phap-nhan.md) | Truy vốn điều lệ qua 19 nguồn, bản đồ pháp nhân quanh người đại diện |
+
 ## Đang chờ input từ Hiếu
 
 - **Thông tin gói thầu** đang tham gia (tên gói, chủ đầu tư, tiêu chí HSMT, giá gói) — thiếu cái này chưa lập được bảng đối chiếu.

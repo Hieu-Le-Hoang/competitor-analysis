@@ -108,6 +108,42 @@ Về Chấn Hưng: người đại diện khớp tên đầy đủ 100%, và **c
 | 4 | **Nhân sự chủ chốt mỏng.** Chỉ tuyển vị trí phổ thông, không thấy tuyển quản trị dự án / đấu thầu / kỹ sư cao cấp | `[INFERRED]` | Đối chiếu nhân sự chủ chốt trong HSDT với chứng chỉ hành nghề thật |
 | 5 | **Trụ sở ĐKKD ≠ địa chỉ giao dịch** | `[VERIFIED]` | Xem HSDT ghi địa chỉ nào. Lưu ý: có địa điểm kinh doanh khác trụ sở là **hợp pháp** nếu đã đăng ký đúng |
 
+## Vòng 2 (20/08/2026) — mở lại các hướng đã tắc
+
+Chi tiết: [vong-2/index.md](nam-phong-tay-do/vong-2/index.md) · [07 đấu giá](nam-phong-tay-do/vong-2/07-dau-gia-tai-san.md) · [08 chi nhánh](nam-phong-tay-do/vong-2/08-xac-minh-chi-nhanh.md) · [09 tài chính & pháp nhân](nam-phong-tay-do/vong-2/09-tai-chinh-phap-nhan.md)
+
+### Được gì
+
+| Phát hiện | Giá trị |
+|---|---|
+| **Đang có tranh chấp hợp đồng dân sự tại TAND quận Ninh Kiều**, số tiền **1.948.000.100 đồng** `[VERIFIED]` | Cao. Sửa chỗ mờ cũ: "không có bản án" ≠ "không có tranh chấp". Dùng được nếu HSMT có mục kê khai kiện tụng đang diễn ra |
+| Phiên đấu giá 5/3/2021 có **bốn** công ty: C.H., T.Đ., Đ.T., SG Co.op — *"Công ty C.H. đấu giá ba vòng và dừng ở mức 46 triệu đồng. Cuối cùng, Công ty T.Đ. trúng thầu với giá 48 triệu đồng"* `[VERIFIED]` | Trung bình. Không tờ báo nào nêu tên đầy đủ, và không có nguồn thứ hai |
+| **Chỉ Cần Thơ xác minh được là thật.** BR-VT / Bình Dương / Cầu Giấy: KHÔNG RÕ | Cao nếu HSMT đòi năng lực địa bàn |
+| **Hai chi nhánh hoạt động thật đều nằm trong bệnh viện; ba chi nhánh không xác minh được thì không cái nào** `[INFERRED]` | Cao. Gợi ý 3 chi nhánh kia không phải điểm bán theo mô hình cốt lõi |
+| Mạng lưới **không mở rộng** — không có chi nhánh mới nào sau 05/2024, Đồng Tháp đã đóng | Trung bình. Ngược với hình ảnh "chuỗi 5 tỉnh" |
+
+### Mất gì — ba câu hỏi lớn vẫn trống
+
+| Câu hỏi | Vì sao vẫn trống |
+|---|---|
+| **Vốn điều lệ** | Cày 19 nguồn, không nguồn nào lộ. Cloudflare / login-wall / 422 / không index |
+| **Chủ sở hữu công ty TNHH MTV** | Không nguồn nào phân biệt được vai trò này với người đại diện |
+| **Sau 3/2024 ai trúng mặt bằng BV Nhi Đồng** | Không nguồn nào đề cập |
+
+### 🧊 Một giả thuyết bị đóng băng — đọc trước khi ai đó đào lại
+
+Ký hiệu **"C.H."** trong bài Tuổi Trẻ trùng chữ cái đầu với **Chấn Hưng** (MST 6300142990, cùng tên người đại diện, cùng cơ quan thuế với đối thủ). Nếu đúng, diễn biến "C.H. dừng ở 46, T.Đ. trúng 48" khớp cáo buộc thông đồng trong đơn tố cáo.
+
+**Đã thiết kế phép thử bác bỏ** (tra ngày Chấn Hưng ngừng hoạt động — nếu trước 3/2021 thì giả thuyết chết). **Chạy 12 nguồn, không nguồn nào tra được** — kể cả `tracuunnt.gdt.gov.vn` của Tổng cục Thuế. Search `"6300142990"` không giới hạn site ra **0 kết quả**.
+
+> **Không kiểm chứng được ⇒ không dùng.** Một giả thuyết không có cách nào biết đúng hay sai thì không phải phát hiện — nó là câu chuyện. Nguy hiểm của nó nằm ở chỗ nghe rất hợp lý. Điều kiện mở lại ghi ở [07-dau-gia-tai-san.md](nam-phong-tay-do/vong-2/07-dau-gia-tai-san.md).
+
+### ⚠️ Cảnh báo phương pháp — áp dụng cho cả hồ sơ
+
+`masothue.com` đọc qua WebFetch **đã một lần trả về địa chỉ của MST khác** (gán địa chỉ của MST 0317676534 cho chi nhánh -002). WebFetch tóm tắt trang bằng model nhỏ, và khâu tóm tắt có thể gán nhầm.
+
+**Hệ quả:** toàn bộ địa chỉ 5 chi nhánh đã hạ từ `[VERIFIED]` xuống `[INFERRED]`. Mọi dữ kiện lấy qua WebFetch tóm tắt từ trang tra cứu doanh nghiệp đều cần đối chiếu chéo trước khi dùng trong hồ sơ thầu.
+
 ## Điểm mù — bắt buộc người thật mở browser
 
 Mọi hướng còn lại đều tắc ở cùng một chỗ: bot không vào được.
