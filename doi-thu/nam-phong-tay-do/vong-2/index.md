@@ -19,9 +19,9 @@ Nói cách khác: vòng 1 tìm đúng đối tượng ở sai chỗ.
 
 | Lane | Câu hỏi phải trả lời | File kết quả |
 |---|---|---|
-| **Đấu giá tài sản** | Lịch sử đấu giá thật của họ? Hợp đồng BV Nhi Đồng hết hạn 3/2024 — sau đó ai trúng? Công ty còn lại trong phiên 1/2021 là ai? | `07-dau-gia-tai-san.md` |
-| **Xác minh chi nhánh** | 4 chi nhánh ngoài Cần Thơ là thật hay chỉ trên giấy — kiểm bằng danh sách Sở Công Thương và giấy ATTP, không dùng Google Maps | `08-xac-minh-chi-nhanh.md` |
-| **Tài chính & pháp nhân** | Vốn điều lệ bao nhiêu? Chủ sở hữu công ty TNHH MTV là ai? Còn pháp nhân thứ tư nào không? | `09-tai-chinh-phap-nhan.md` |
+| **Đấu giá tài sản** | Lịch sử đấu giá thật của họ? Hợp đồng BV Nhi Đồng hết hạn 3/2024 — sau đó ai trúng? Công ty còn lại trong phiên 1/2021 là ai? | `08-dau-gia-tai-san.md` |
+| **Xác minh chi nhánh** | 4 chi nhánh ngoài Cần Thơ là thật hay chỉ trên giấy — kiểm bằng danh sách Sở Công Thương và giấy ATTP, không dùng Google Maps | `09-xac-minh-chi-nhanh.md` |
+| **Tài chính & pháp nhân** | Vốn điều lệ bao nhiêu? Chủ sở hữu công ty TNHH MTV là ai? Còn pháp nhân thứ tư nào không? | `10-tai-chinh-phap-nhan.md` |
 
 ## Ràng buộc giữ nguyên từ vòng 1
 

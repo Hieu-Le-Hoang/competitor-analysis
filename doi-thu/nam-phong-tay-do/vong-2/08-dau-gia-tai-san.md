@@ -76,7 +76,7 @@ Trích **nguyên văn** Tuổi Trẻ 09/02/2023 (em tự fetch lại, xác nhậ
 
 ### 🚨 Giả thuyết cần kiểm chứng — và cảnh báo đi kèm
 
-Hồ sơ của mình có một pháp nhân tên **CHẤN HƯNG** (MST 6300142990) — viết tắt cũng là **C.H.** — mà [09-tai-chinh-phap-nhan.md](09-tai-chinh-phap-nhan.md) ghi nhận: cùng tên người đại diện *Huỳnh Ngọc Quyên*, cùng cơ quan thuế *"Thuế cơ sở 8, TP Cần Thơ"*, hiện đã ngừng hoạt động.
+Hồ sơ của mình có một pháp nhân tên **CHẤN HƯNG** (MST 6300142990) — viết tắt cũng là **C.H.** — mà [09-tai-chinh-phap-nhan.md](10-tai-chinh-phap-nhan.md) ghi nhận: cùng tên người đại diện *Huỳnh Ngọc Quyên*, cùng cơ quan thuế *"Thuế cơ sở 8, TP Cần Thơ"*, hiện đã ngừng hoạt động.
 
 Nếu C.H. = Chấn Hưng **và** Chấn Hưng đúng là cùng người với Nam Phong Tây Đô, thì diễn biến "C.H. dừng ở 46 triệu, T.Đ. trúng 48 triệu" khớp với đúng cáo buộc trong đơn tố cáo.
 

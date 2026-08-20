@@ -31,9 +31,9 @@ rồi [07](doi-thu/nam-phong-tay-do/07-cantin-mat-bang.md) §2 (cảnh báo chi�
 
 | File | Nội dung |
 |---|---|
-| [07 · Đấu giá tài sản](doi-thu/nam-phong-tay-do/vong-2/07-dau-gia-tai-san.md) | Cổng dgts.moj.gov.vn, bốn công ty dự phiên đấu giá 2021, vụ tranh chấp tại TAND quận Ninh Kiều |
-| [08 · Xác minh chi nhánh](doi-thu/nam-phong-tay-do/vong-2/08-xac-minh-chi-nhanh.md) | Chi nhánh nào vận hành thật, kiểm bằng danh sách hành chính thay Google Maps |
-| [09 · Tài chính & pháp nhân](doi-thu/nam-phong-tay-do/vong-2/09-tai-chinh-phap-nhan.md) | Truy vốn điều lệ qua 19 nguồn, bản đồ pháp nhân quanh người đại diện |
+| [07 · Đấu giá tài sản](doi-thu/nam-phong-tay-do/vong-2/08-dau-gia-tai-san.md) | Cổng dgts.moj.gov.vn, bốn công ty dự phiên đấu giá 2021, vụ tranh chấp tại TAND quận Ninh Kiều |
+| [08 · Xác minh chi nhánh](doi-thu/nam-phong-tay-do/vong-2/09-xac-minh-chi-nhanh.md) | Chi nhánh nào vận hành thật, kiểm bằng danh sách hành chính thay Google Maps |
+| [09 · Tài chính & pháp nhân](doi-thu/nam-phong-tay-do/vong-2/10-tai-chinh-phap-nhan.md) | Truy vốn điều lệ qua 19 nguồn, bản đồ pháp nhân quanh người đại diện |
 
 ## Đang chờ input từ Hiếu
 

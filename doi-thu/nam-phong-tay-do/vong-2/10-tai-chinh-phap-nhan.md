@@ -72,7 +72,7 @@ Trước chỉ biết tên tỉnh, giờ có địa chỉ cụ thể:
 >
 > Địa chỉ lấy từ `masothue.com` **qua WebFetch**, mà WebFetch tóm tắt trang bằng một model nhỏ. Lane xác minh chi nhánh phát hiện: trong một lần fetch, địa chỉ CN `-002` trả về là *"Lô C6, Sao Mai Bến Đình"* — verify chéo thì địa chỉ đó **thuộc một MST hoàn toàn khác** (0317676534, người đại diện Trần Thị Huế). Tức khâu tóm tắt **có thể gán nhầm địa chỉ của doanh nghiệp khác**.
 >
-> Địa chỉ giữ lại là bản lặp nhất quán qua 2 lần tra độc lập, nên vẫn đáng tin ở mức `[INFERRED]` — nhưng **không được dùng làm căn cứ trong hồ sơ thầu** khi chưa đối chiếu `dangkykinhdoanh.gov.vn` bằng browser thật. Chi tiết: [08-xac-minh-chi-nhanh.md](08-xac-minh-chi-nhanh.md).
+> Địa chỉ giữ lại là bản lặp nhất quán qua 2 lần tra độc lập, nên vẫn đáng tin ở mức `[INFERRED]` — nhưng **không được dùng làm căn cứ trong hồ sơ thầu** khi chưa đối chiếu `dangkykinhdoanh.gov.vn` bằng browser thật. Chi tiết: [08-xac-minh-chi-nhanh.md](09-xac-minh-chi-nhanh.md).
 >
 > **Hệ quả kéo theo:** nhận định *"133 Lê Hồng Phong là trục thương mại chính nên chi nhánh BR-VT nhiều khả năng có thật"* — **rút lại**. Nó dựa trên một địa chỉ nay chỉ còn `[INFERRED]`, và lane xác minh chi nhánh không tìm được **bất kỳ** dấu vết vận hành nào tại BR-VT. Chi nhánh này quay về trạng thái **KHÔNG RÕ**.
 

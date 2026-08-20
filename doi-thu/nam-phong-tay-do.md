@@ -53,10 +53,11 @@ và độ tin cậy cam kết — cộng thêm hai điểm chất vấn hợp l�
 
 Bốn điều cần nhớ khi dùng hồ sơ này:
 
-1. **"Sạch" ở đây là sạch-trong-phạm-vi-tra.** Bốn nguồn official quan trọng nhất đều chặn bot — chưa ai đọc được nội dung thật của chúng.
-2. **Dữ liệu đấu thầu — mảnh quan trọng nhất — vẫn trống**, số liệu tổng thu được tự mâu thuẫn. Nhưng nay đã có **2 hợp đồng cụ thể được xác minh** qua báo chí.
-3. **Họ mạnh hơn ta tưởng ở khối y tế.** 161 triệu/tháng là hợp đồng quy mô tiền tỷ với chủ đầu tư công — chứng minh năng lực tài chính và kinh nghiệm thật. Điều này **làm yếu đi** mũi khai thác 1 và 2 ở file 05.
+1. **"Sạch" ở đây là sạch-trong-phạm-vi-tra.** Nhiều nguồn official vẫn chặn bot — chưa ai đọc được nội dung thật của chúng. Vốn điều lệ và chủ sở hữu công ty TNHH MTV vẫn trống.
+2. **Dữ liệu đấu thầu đã có** sau vòng 3 — `[CONFLICT]` cũ đã gỡ, xem ô 🎯 phía trên. Câu *"dữ liệu đấu thầu vẫn trống"* ở các bản trước **không còn đúng**, đừng trích lại.
+3. **Họ mạnh ở khối y tế, nhưng mạnh không đều.** 161 triệu/tháng chứng minh năng lực tài chính và kinh nghiệm vận hành thật — song **5 gói trúng đều không có ai dự cùng**, và họ **ngừng dự thầu hoàn toàn từ 2024**. Mạnh ở vận hành, chưa chứng minh được ở cạnh tranh trực tiếp.
 4. Vài "điểm yếu" nhìn hấp dẫn lúc đầu đã bị chính điều tra bác bỏ. Xem mục "Đã bác bỏ".
+5. **Cảnh giác với chính dữ liệu của mình.** WebFetch tóm tắt `masothue.com` đã một lần gán nhầm địa chỉ của MST khác — chi tiết ở mục cảnh báo phương pháp cuối vòng 2.
 
 ## Chân dung đối thủ
 
@@ -138,7 +139,7 @@ Về Chấn Hưng: người đại diện khớp tên đầy đủ 100%, và **c
 
 ## Vòng 2 (20/08/2026) — mở lại các hướng đã tắc
 
-Chi tiết: [vong-2/index.md](nam-phong-tay-do/vong-2/index.md) · [07 đấu giá](nam-phong-tay-do/vong-2/07-dau-gia-tai-san.md) · [08 chi nhánh](nam-phong-tay-do/vong-2/08-xac-minh-chi-nhanh.md) · [09 tài chính & pháp nhân](nam-phong-tay-do/vong-2/09-tai-chinh-phap-nhan.md)
+Chi tiết: [vong-2/index.md](nam-phong-tay-do/vong-2/index.md) · [07 đấu giá](nam-phong-tay-do/vong-2/08-dau-gia-tai-san.md) · [08 chi nhánh](nam-phong-tay-do/vong-2/09-xac-minh-chi-nhanh.md) · [09 tài chính & pháp nhân](nam-phong-tay-do/vong-2/10-tai-chinh-phap-nhan.md)
 
 ### Được gì
 
@@ -164,7 +165,7 @@ Ký hiệu **"C.H."** trong bài Tuổi Trẻ trùng chữ cái đầu với **C
 
 **Đã thiết kế phép thử bác bỏ** (tra ngày Chấn Hưng ngừng hoạt động — nếu trước 3/2021 thì giả thuyết chết). **Chạy 12 nguồn, không nguồn nào tra được** — kể cả `tracuunnt.gdt.gov.vn` của Tổng cục Thuế. Search `"6300142990"` không giới hạn site ra **0 kết quả**.
 
-> **Không kiểm chứng được ⇒ không dùng.** Một giả thuyết không có cách nào biết đúng hay sai thì không phải phát hiện — nó là câu chuyện. Nguy hiểm của nó nằm ở chỗ nghe rất hợp lý. Điều kiện mở lại ghi ở [07-dau-gia-tai-san.md](nam-phong-tay-do/vong-2/07-dau-gia-tai-san.md).
+> **Không kiểm chứng được ⇒ không dùng.** Một giả thuyết không có cách nào biết đúng hay sai thì không phải phát hiện — nó là câu chuyện. Nguy hiểm của nó nằm ở chỗ nghe rất hợp lý. Điều kiện mở lại ghi ở [07-dau-gia-tai-san.md](nam-phong-tay-do/vong-2/08-dau-gia-tai-san.md).
 
 ### ⚠️ Cảnh báo phương pháp — áp dụng cho cả hồ sơ
 

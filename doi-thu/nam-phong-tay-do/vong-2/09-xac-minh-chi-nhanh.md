@@ -103,7 +103,7 @@ Tra `thongtindoanhnghiep.co`, `infodoanhnghiep.com`, `masothue.com`: trang công
 
 Địa chỉ được giữ lại — *133 Lê Hồng Phong, P.9, TP Vũng Tàu* — là địa chỉ **lặp lại nhất quán qua 2 lần tra độc lập**. Nhưng bài học rút ra:
 
-> 🔻 **Địa chỉ 5 chi nhánh ghi ở [09-tai-chinh-phap-nhan.md](09-tai-chinh-phap-nhan.md) phải hạ từ `[VERIFIED]` xuống `[INFERRED]`.** Chúng đến từ tóm tắt tự động, và tóm tắt tự động đã chứng minh là có thể gán nhầm địa chỉ của MST khác. Muốn chắc: tra `dangkykinhdoanh.gov.vn` bằng browser thật.
+> 🔻 **Địa chỉ 5 chi nhánh ghi ở [09-tai-chinh-phap-nhan.md](10-tai-chinh-phap-nhan.md) phải hạ từ `[VERIFIED]` xuống `[INFERRED]`.** Chúng đến từ tóm tắt tự động, và tóm tắt tự động đã chứng minh là có thể gán nhầm địa chỉ của MST khác. Muốn chắc: tra `dangkykinhdoanh.gov.vn` bằng browser thật.
 
 ## Giới hạn cứng của phương pháp
 
