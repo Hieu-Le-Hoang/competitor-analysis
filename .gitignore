@@ -1,3 +1,23 @@
-.claude/settings.local.json
-*.log
+# ─── Claude Code — cấu hình cục bộ, không đẩy lên remote ───
+.claude/
+CLAUDE.md
+
+# ─── Backup / file tạm ───
+*.bak
+*.orig
+*.tmp
+scratchpad/
+backup-*/
+
+# ─── File khoá tạm của Office (tự sinh khi mở .docx / .xlsx) ───
+~$*
+
+# ─── Rác hệ điều hành ───
+Thumbs.db
+desktop.ini
 .DS_Store
+
+# ─── Editor / IDE ───
+.vscode/
+.idea/
+*.code-workspace

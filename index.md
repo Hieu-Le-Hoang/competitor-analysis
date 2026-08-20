@@ -1,44 +1,39 @@
-# Nghiên cứu Đối thủ — Mục lục
+# Index — Nghiên cứu đối thủ thầu
 
-Workspace tổng hợp hồ sơ đối thủ phục vụ đấu thầu. Rule hành vi: xem [CLAUDE.md](CLAUDE.md).
+Due diligence đối thủ trong đấu thầu. Mỗi file evidence là dữ liệu thô có trích dẫn;
+kết luận nằm ở `findings.md`.
 
-**Nguyên tắc đọc file trong project này:** mọi claim đều mang marker tin cậy.
-`[VERIFIED]` có URL trích dẫn trực tiếp · `[INFERRED]` suy luận · `[UNVERIFIED]` chưa tìm được nguồn ·
-`[CONFLICT]` nguồn mâu thuẫn · `[NGHI TRÙNG TÊN]` chưa chắc cùng pháp nhân.
-Không dùng `[INFERRED]` / `[UNVERIFIED]` làm căn cứ trong hồ sơ thầu nếu chưa xác minh.
+## Đối tượng đang theo dõi
 
-## Đối thủ
-
-### Nam Phong Tây Đô (MST 6300233207)
+### Nam Phong Tây Đô — MST 6300233207
 
 | File | Nội dung |
-|---|---|
-| [Hồ sơ tổng hợp](doi-thu/nam-phong-tay-do.md) | Thông tin pháp nhân, mạng lưới chi nhánh, khoảng trống dữ liệu |
-| [01 · Lịch sử đấu thầu](doi-thu/nam-phong-tay-do/01-lich-su-dau-thau.md) | Gói đã tham gia/trúng/trượt, giá bỏ thầu, chủ đầu tư quen thuộc |
-| [02 · Hồ sơ pháp nhân](doi-thu/nam-phong-tay-do/02-ho-so-phap-nhan.md) | Vốn điều lệ, ngành nghề, chi nhánh, làm rõ vụ 2 địa chỉ |
-| [03 · Tuân thủ thuế](doi-thu/nam-phong-tay-do/03-tuan-thu-thue.md) | Nợ thuế, cưỡng chế, tình trạng MST, xử phạt |
-| [04 · Tin tiêu cực](doi-thu/nam-phong-tay-do/04-tin-tieu-cuc.md) | QLTT, ATTP, BHXH, bản án, tranh chấp, báo chí |
-| [05 · Năng lực & điểm yếu](doi-thu/nam-phong-tay-do/05-nang-luc-diem-yeu.md) | Hoạt động thực tế + điểm yếu khai thác được theo tiêu chí HSMT |
-| [06 · Review & báo chí](doi-thu/nam-phong-tay-do/06-review-danh-gia.md) | Review khách hàng/nhân viên + hồ sơ báo chí vụ thanh tra BV Nhi Đồng Cần Thơ |
-| [**07 · Căng tin & mặt bằng**](doi-thu/nam-phong-tay-do/07-cantin-mat-bang.md) | ★ Đúng mảng gói đang đấu — cơ chế đấu giá tài sản công, tiền lệ hành vi hợp đồng, chiến thuật phòng vệ |
+|------|----------|
+| [context.md](context.md) | Dữ liệu đầu vào thô + quan sát ban đầu — **P1** hồ sơ MST đối thủ · **P2** ★ phiên đấu giá căng tin ĐH Quy Nhơn 18/08/2026 (đã có kết quả: trúng 2,777 tỷ / khởi điểm 2,177 tỷ) |
+| [intent.md](intent.md) | Mục tiêu, phạm vi, tiêu chí hoàn thành |
+| [findings.md](findings.md) | **Kết luận tổng hợp** — phân loại A/B/C/D theo mức dùng được |
+| [evidence/01-nguon-tong-hop.md](evidence/01-nguon-tong-hop.md) | ★ **Mọi URL đã crawl** — 48 truy được + 12 bị chặn, kèm cách tra tay |
+| [evidence/02-dang-ky-doanh-nghiep.md](evidence/02-dang-ky-doanh-nghiep.md) | Đăng ký DN, chi nhánh, pháp nhân liên quan |
+| [evidence/03-thue-va-tuan-thu.md](evidence/03-thue-va-tuan-thu.md) | Tình trạng MST, nợ thuế, cưỡng chế |
+| [evidence/04-dau-thau-va-hop-dong.md](evidence/04-dau-thau-va-hop-dong.md) | 14 gói thầu, lý do bị loại, cấm thầu |
+| [evidence/05-phap-ly-va-cong-dong.md](evidence/05-phap-ly-va-cong-dong.md) | Toà án, xử phạt, báo chí, cộng đồng |
+| [evidence/06-tai-lieu-input-5309.md](evidence/06-tai-lieu-input-5309.md) | Điểm bất lợi rút từ tài liệu 5309 trong `input/` — tách **dùng được** khỏi **mới là manh mối**. ⚠️ artefact tự khai không phải bản gốc |
+| [evidence/07-thi-truong-cantin.md](evidence/07-thi-truong-cantin.md) | ★ Mảng căng tin BV/trường — hành vi xin giảm giá, cơ chế đấu giá đúng, **kịch bản phòng vệ khi vào phiên** |
+| [evidence/08-crawl-nhom-b.md](evidence/08-crawl-nhom-b.md) | Crawl 8 hướng nhóm B — BHXH, review sinh viên KTX, đương sự vụ án Ninh Kiều, mốc khiếu nại `5309` |
 
-**Bối cảnh gói thầu:** căng tin trường đại học và bệnh viện → **đúng sân nhà của đối thủ**.
+**Đọc trước nếu chỉ có 2 phút:** `findings.md` mục **A1d** (★★ tiền lệ **trả giá cao rồi bỏ cọc** 2021 —
+thứ đổi cách mình trả giá), **A1** (trúng giá cao rồi xin giảm), **A1b** (khoản giảm đó đã thành vụ án dân sự
+đang thụ lý tại TAND quận Ninh Kiều — chưa rõ bên bị kiện), và mục D (không tìm thấy ≠ trong sạch).
 
-**Đọc trước nếu chỉ có 5 phút:** [Hồ sơ tổng hợp](doi-thu/nam-phong-tay-do.md) mục "Chốt nhanh",
-rồi [07](doi-thu/nam-phong-tay-do/07-cantin-mat-bang.md) §2 (cảnh báo chiến thuật ghép hai tiền lệ).
+> ⛔ **Mục A1d nói về một cuộc điều tra CHƯA có kết luận và báo VIẾT TẮT tên công ty.** Đọc hết khối ràng buộc
+> trong mục đó trước khi nhắc tới nó với bất kỳ ai. Dùng để **PHÒNG**, không phải để **TỐ**.
 
-**Vòng 2** — mở lại các hướng đã tắc bằng nguồn khác ([vì sao có vòng 2](doi-thu/nam-phong-tay-do/vong-2/index.md)):
+**Văn bản gốc của toàn bộ vụ BV Nhi đồng:** Thông báo kết quả giải quyết tố cáo số **`5309/TB-SYT`**
+(Sở Y tế TP Cần Thơ) — đã biết số hiệu, **chưa có toàn văn**. Đây là việc đáng làm nhất còn lại.
 
-| File | Nội dung |
-|---|---|
-| [07 · Đấu giá tài sản](doi-thu/nam-phong-tay-do/vong-2/08-dau-gia-tai-san.md) | Cổng dgts.moj.gov.vn, bốn công ty dự phiên đấu giá 2021, vụ tranh chấp tại TAND quận Ninh Kiều |
-| [08 · Xác minh chi nhánh](doi-thu/nam-phong-tay-do/vong-2/09-xac-minh-chi-nhanh.md) | Chi nhánh nào vận hành thật, kiểm bằng danh sách hành chính thay Google Maps |
-| [09 · Tài chính & pháp nhân](doi-thu/nam-phong-tay-do/vong-2/10-tai-chinh-phap-nhan.md) | Truy vốn điều lệ qua 19 nguồn, bản đồ pháp nhân quanh người đại diện |
+**Bối cảnh cạnh tranh:** đấu căng tin trường đại học + bệnh viện — cùng thị trường cốt lõi của đối thủ.
 
-## Đang chờ input từ Hiếu
+## Quy ước
 
-- ✅ **Lĩnh vực gói thầu — ĐÃ CÓ** (20/08/2026): căng tin trường đại học và bệnh viện.
-- ⏳ **Chi tiết gói cụ thể**: tên trường/bệnh viện, giá khởi điểm, thời hạn, diện tích, hình thức lựa chọn
-  (đấu giá quyền thuê hay đấu thầu cung cấp dịch vụ).
-- ⏳ **Năng lực bên mình**: doanh thu 3 năm, hợp đồng tương tự, nhân sự chủ chốt, thiết bị,
-  giấy chứng nhận cơ sở đủ điều kiện ATTP.
+- Mọi claim gắn marker `[VERIFIED]` / `[INFERRED]` / `[UNVERIFIED]` / `[OUTDATED?]` / `[CONFLICT]` — xem §3 [CLAUDE.md](CLAUDE.md).
+- Mọi chủ thể neo vào **MST**, không neo vào tên thương hiệu. Lý do: xem mục cảnh báo trùng tên trong `findings.md`.
