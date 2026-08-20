@@ -20,8 +20,17 @@ Không dùng `[INFERRED]` / `[UNVERIFIED]` làm căn cứ trong hồ sơ thầu 
 | [04 · Tin tiêu cực](doi-thu/nam-phong-tay-do/04-tin-tieu-cuc.md) | QLTT, ATTP, BHXH, bản án, tranh chấp, báo chí |
 | [05 · Năng lực & điểm yếu](doi-thu/nam-phong-tay-do/05-nang-luc-diem-yeu.md) | Hoạt động thực tế + điểm yếu khai thác được theo tiêu chí HSMT |
 | [06 · Review & báo chí](doi-thu/nam-phong-tay-do/06-review-danh-gia.md) | Review khách hàng/nhân viên + hồ sơ báo chí vụ thanh tra BV Nhi Đồng Cần Thơ |
+| [**07 · Căng tin & mặt bằng**](doi-thu/nam-phong-tay-do/07-cantin-mat-bang.md) | ★ Đúng mảng gói đang đấu — cơ chế đấu giá tài sản công, tiền lệ hành vi hợp đồng, chiến thuật phòng vệ |
+
+**Bối cảnh gói thầu:** căng tin trường đại học và bệnh viện → **đúng sân nhà của đối thủ**.
+
+**Đọc trước nếu chỉ có 5 phút:** [Hồ sơ tổng hợp](doi-thu/nam-phong-tay-do.md) mục "Chốt nhanh",
+rồi [07](doi-thu/nam-phong-tay-do/07-cantin-mat-bang.md) §2 (cảnh báo chiến thuật ghép hai tiền lệ).
 
 ## Đang chờ input từ Hiếu
 
-- **Thông tin gói thầu** đang tham gia (tên gói, chủ đầu tư, tiêu chí HSMT, giá gói) — thiếu cái này chưa lập được bảng đối chiếu.
-- **Năng lực bên mình**: doanh thu 3 năm, hợp đồng tương tự, nhân sự chủ chốt, thiết bị.
+- ✅ **Lĩnh vực gói thầu — ĐÃ CÓ** (20/08/2026): căng tin trường đại học và bệnh viện.
+- ⏳ **Chi tiết gói cụ thể**: tên trường/bệnh viện, giá khởi điểm, thời hạn, diện tích, hình thức lựa chọn
+  (đấu giá quyền thuê hay đấu thầu cung cấp dịch vụ).
+- ⏳ **Năng lực bên mình**: doanh thu 3 năm, hợp đồng tương tự, nhân sự chủ chốt, thiết bị,
+  giấy chứng nhận cơ sở đủ điều kiện ATTP.

@@ -6,14 +6,40 @@ description: Bản tổng hợp toàn bộ điều tra về Công ty TNHH Đầu
 # Nam Phong Tây Đô — hồ sơ tổng hợp
 
 Đối thủ trực tiếp trong gói thầu Hiếu đang tham gia. Điều tra bởi 5 hướng song song, ngày 20/08/2026.
+**Vòng 3 (20/08/2026)** bổ sung dữ liệu đấu thầu đã verify + bối cảnh gói căng tin.
 
-Chi tiết từng mảng: [01 đấu thầu](nam-phong-tay-do/01-lich-su-dau-thau.md) · [02 pháp nhân](nam-phong-tay-do/02-ho-so-phap-nhan.md) · [03 thuế](nam-phong-tay-do/03-tuan-thu-thue.md) · [04 tin tiêu cực](nam-phong-tay-do/04-tin-tieu-cuc.md) · [05 năng lực & điểm yếu](nam-phong-tay-do/05-nang-luc-diem-yeu.md) · [06 review & báo chí](nam-phong-tay-do/06-review-danh-gia.md)
+Chi tiết từng mảng: [01 đấu thầu](nam-phong-tay-do/01-lich-su-dau-thau.md) · [02 pháp nhân](nam-phong-tay-do/02-ho-so-phap-nhan.md) · [03 thuế](nam-phong-tay-do/03-tuan-thu-thue.md) · [04 tin tiêu cực](nam-phong-tay-do/04-tin-tieu-cuc.md) · [05 năng lực & điểm yếu](nam-phong-tay-do/05-nang-luc-diem-yeu.md) · [06 review & báo chí](nam-phong-tay-do/06-review-danh-gia.md) · [**07 căng tin & mặt bằng**](nam-phong-tay-do/07-cantin-mat-bang.md)
+
+## ⚡ Bối cảnh gói thầu — đã có đáp án (20/08/2026)
+
+**Gói đang cạnh tranh: căng tin trường đại học và bệnh viện.** Câu hỏi treo suốt hồ sơ này
+(*"nếu thuộc khối y tế → sân nhà của họ"*) nay có đáp án: **đúng sân nhà của họ.**
+
+Hai hệ quả bắt buộc:
+1. Mọi mũi khai thác dựa trên *"họ thiếu kinh nghiệm lĩnh vực"* đều **chết**.
+2. Mảng căng tin đi qua **đấu giá quyền thuê tài sản công**, KHÔNG phải Luật Đấu thầu → dữ liệu nằm ở
+   `dgts.moj.gov.vn` / `taisancong.vn`, **không phải muasamcong**. Xem [07](nam-phong-tay-do/07-cantin-mat-bang.md).
 
 ## Chốt nhanh
 
-**Không đào được tì vết nào.** Thuế sạch, không nợ BHXH, không bản án, không xử phạt QLTT, không vi phạm đấu thầu. Đây là kết quả trung thực sau khi quét ~60 query qua 8 hướng độc lập — không phải do bỏ cuộc sớm.
+**Không có vi phạm pháp lý nào.** Thuế sạch, không nợ BHXH, không bản án, không xử phạt QLTT,
+không quyết định cấm thầu. Kết quả trung thực sau ~60 query qua 8 hướng độc lập.
 
-**Kết luận chiến thuật: đối thủ này không thắng được bằng cách vạch lỗi. Phải so bằng năng lực và giá.**
+> ✅ **SỬA LẠI SAU VÒNG 3.** Câu *"không đào được tì vết nào"* ở bản trước **không còn đúng**.
+> Đã tìm được **một tì vết thật, có văn bản**: Quyết định 262/QĐ-BVTTTG loại HSDT của họ vì
+> *"không cung cấp hồ sơ dự thầu bảng giấy… không kèm hồ sơ, tài liệu chứng minh năng lực kinh nghiệm.
+> Tổ chuyên gia đã nhiều lần liên hệ với công ty nhưng không được"* + *"mặt hàng không đúng thông số kỹ thuật"*.
+> Đây **không phải vi phạm pháp luật** — là bằng chứng về **tính nghiêm túc khi làm hồ sơ**.
+> Chi tiết: [01-lich-su-dau-thau.md](nam-phong-tay-do/01-lich-su-dau-thau.md).
+
+> 🎯 **VÒNG 3 — ĐÃ GỠ `[CONFLICT]` LỚN NHẤT.** Hai bộ số "14 gói thắng 5" và "8 gói thắng 0" mà
+> vòng 1–2 bỏ ngỏ hoá ra **cả hai đều đúng, đo hai thứ khác nhau**:
+> 14 gói là **tổng thể** (trúng 5, trượt 9); 8 gói là **chỉ những gói có đối thủ** (thắng 0, thua 8).
+> → **5 gói trúng đều không có ai dự cùng.** Năng lực cạnh tranh trực tiếp theo dữ liệu công khai = **0**.
+> Đã có **7/14 gói với URL xác minh được**, phân bố theo năm, và mốc **ngừng dự thầu hoàn toàn từ 2024**.
+
+**Kết luận chiến thuật: đối thủ này không hạ được bằng cách vạch vi phạm. Đấu bằng giá, phương án vận hành,
+và độ tin cậy cam kết — cộng thêm hai điểm chất vấn hợp lệ về hồ sơ (QĐ 262) và hợp đồng tương tự đã hết hạn.**
 
 > 🎯 **CẬP NHẬT LỚN — lượt đào review (20/08/2026).** Ba tờ báo lớn (VietnamNet, Tuổi Trẻ, Tiền Phong) nêu **đích danh công ty** trong kết luận thanh tra Sở Y tế TP Cần Thơ về **Bệnh viện Nhi Đồng TP Cần Thơ**. Hai hợp đồng đã `[VERIFIED]`: mặt bằng **siêu thị 48 triệu/tháng** (36 tháng, 3/2021–3/2024) và **căng tin + nhà ăn dinh dưỡng 161 triệu/tháng**, với *"tổng giá trị điều chỉnh và giảm giá hợp đồng là hơn 2 tỷ đồng"*.
 >
@@ -101,7 +127,9 @@ Về Chấn Hưng: người đại diện khớp tên đầy đủ 100%, và **c
 | # | Mũi | Tin cậy | Cần gì để chốt |
 |---|---|---|---|
 | 0 | **Chi nhánh Đồng Tháp (-003) đã chấm dứt hiệu lực MST.** Mũi duy nhất đứng trên dữ kiện `[VERIFIED]` chứ không phải suy đoán — 2 nguồn độc lập khớp nguyên văn | `[VERIFIED]` | Xem HSDT của họ có dẫn chi nhánh này làm bằng chứng mạng lưới/năng lực khu vực không. **Lưu ý bản chất: đây là closure HỢP LỆ (đã hoàn thành thủ tục), KHÁC HẲN "không hoạt động tại địa chỉ đăng ký". Không phải vi phạm — chỉ là dữ kiện đối chiếu** |
-| 1 | **Kinh nghiệm hợp đồng tương tự.** Số liệu mâu thuẫn: "14 gói thắng 5" vs "8 gói **thắng 0**". Nếu bộ hai đúng → họ chưa từng trúng gói nào | `[UNVERIFIED]` | Tra muasamcong.mpi.gov.vn (cần đăng nhập) hoặc dauthau.info trả phí theo MST |
+| 0b | ★ **Lý do bị loại có văn bản.** QĐ 262/QĐ-BVTTTG: thiếu HSDT bản giấy, thiếu tài liệu năng lực, hàng sai thông số kỹ thuật, **liên hệ nhiều lần không được**. Tì vết thật duy nhất tìm được | `[VERIFIED]` | Dùng khi HSMT có tiêu chí uy tín/tính nghiêm túc thực hiện hợp đồng. **Không** gọi là "vi phạm" |
+| 1 | ✅ **ĐÃ CHỐT — kinh nghiệm hợp đồng tương tự.** `[CONFLICT]` cũ đã giải: 14 gói tổng (trúng 5) và 8 gói đối đầu (**thắng 0**) là hai chỉ số khác nhau, cả hai đều đúng → **5 gói trúng đều không có đối thủ**. Thêm: **0 gói từ 2024**, phí MSC hết hạn, hợp đồng gần nhất 5/2023 | `[VERIFIED]` | Còn 7/14 gói sau paywall. Yêu cầu chứng minh **hợp đồng tương tự trong 3 năm gần nhất** — theo dữ liệu công khai họ không có |
+| 1c | **Mảng căng tin: chưa tra được lịch sử đấu giá.** Sai hệ thống — phải tra `dgts.moj.gov.vn` / `taisancong.vn`, không phải muasamcong | `[UNVERIFIED]` | Xem [07-cantin-mat-bang.md](nam-phong-tay-do/07-cantin-mat-bang.md) |
 | 1b | **Bề dày địa bàn ngoài Cần Thơ gần như bằng 0.** Trước 2022 chỉ có 1 chi nhánh. BR-VT lập 2022, Bình Dương và Cầu Giấy mới 2024 | `[VERIFIED dữ kiện]` | Nếu HSMT tính kinh nghiệm theo địa bàn/thời gian hoạt động khu vực |
 | 2 | **Năng lực tài chính.** Không có vốn điều lệ, không có doanh thu công khai | `[INFERRED]` | Vốn tại dangkykinhdoanh.gov.vn; đòi BCTC 3 năm kiểm toán khi đánh giá HSDT |
 | 3 | **4/5 chi nhánh nghi là vỏ.** Chỉ Cần Thơ có bằng chứng vận hành thật. Bình Dương = tầng trệt KTX Dĩ An, Cầu Giấy = trong ngõ | `[INFERRED]` | Google Maps / thực địa. Vắng bằng chứng ≠ bằng chứng vắng mặt |
@@ -131,7 +159,8 @@ Xếp theo (giá trị thu được) ÷ (công bỏ ra). Làm hết 3 cái đầ
 
 | # | Việc | Mất bao lâu | Đổi lại được gì |
 |---|---|---|---|
-| 1 | Đăng ký tài khoản **miễn phí** tại `muasamcong.mpi.gov.vn` → mục "Kết quả lựa chọn nhà thầu" → tra MST `6300233207` | ~15 phút | Gỡ được `[CONFLICT]` lớn nhất: họ đã trúng gói nào chưa. Đây là mảnh quyết định |
+| 1 | **`dgts.moj.gov.vn` + `taisancong.vn`** → tìm lịch sử trúng **đấu giá quyền thuê mặt bằng** | ~20 phút | ★ Đúng hệ thống cho mảng căng tin. Hiện hoàn toàn trống — đây mới là mảnh quyết định cho gói đang đấu |
+| 1b | Đăng ký tài khoản **miễn phí** tại `muasamcong.mpi.gov.vn` → "Kết quả lựa chọn nhà thầu" → tra MST `6300233207` | ~15 phút | Tái xác nhận 14 gói từ nguồn gốc + lấp 7 gói còn sau paywall. `[CONFLICT]` 14/8 gói **đã giải xong ở vòng 3**, việc này giờ là đối chiếu chứ không còn là mảnh thiếu |
 | 2 | Mở `dangkykinhdoanh.gov.vn` bằng browser thường → tra MST → xem **vốn điều lệ** | ~5 phút | Chốt được năng lực tài chính, hiện đang trống hoàn toàn |
 | 3 | Google Maps: search "Nam Phong Mart" tại BR-VT, Bình Dương, Cầu Giấy | ~10 phút | Xác nhận 4 chi nhánh là thật hay chỉ trên giấy |
 | 4 | `congbobanan.toaan.gov.vn` → gõ tay "Nam Phong Tây Đô" vào ô tìm kiếm | ~5 phút | Bản án dân sự/lao động không lên báo. Xác suất có: thấp |
@@ -141,10 +170,11 @@ Xếp theo (giá trị thu được) ÷ (công bỏ ra). Làm hết 3 cái đầ
 
 ## Đang chờ input từ Hiếu
 
-Không có hai thứ này thì không lập được bảng đối chiếu:
-
-- **Gói thầu**: tên gói, chủ đầu tư, lĩnh vực, giá gói, tiêu chí HSMT, hình thức đấu thầu (rộng rãi / hạn chế — quyết định việc có viện dẫn Điều 6 khoản 4 điểm c được không).
-- **Năng lực bên mình**: doanh thu 3 năm, hợp đồng tương tự, nhân sự chủ chốt, thiết bị.
+- ✅ **Lĩnh vực gói thầu — ĐÃ CÓ:** căng tin trường đại học và bệnh viện (xác nhận 20/08/2026).
+- ⏳ **Chi tiết gói cụ thể**: tên trường/bệnh viện, giá khởi điểm, thời hạn khai thác, diện tích,
+  hình thức lựa chọn (đấu giá quyền thuê hay đấu thầu cung cấp dịch vụ — quyết định toàn bộ cách tra và cách đấu).
+- ⏳ **Năng lực bên mình**: doanh thu 3 năm, hợp đồng tương tự, nhân sự chủ chốt, thiết bị,
+  và **giấy chứng nhận cơ sở đủ điều kiện ATTP** (bắt buộc với nhà ăn/căng tin).
 
 ## Nguồn
 
