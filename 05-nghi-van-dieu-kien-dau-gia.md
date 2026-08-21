@@ -253,30 +253,7 @@ là **kết quả tra cứu chưa đầy đủ, không phải kết luận**.
 
 ---
 
-## 5 · Những nội dung chúng tôi đã chủ động không nêu
-
-Trong quá trình tìm hiểu thông tin công khai, chúng tôi có gặp một số nội dung nghe qua thì bất lợi
-cho đơn vị trúng đấu giá, nhưng khi kiểm tra kỹ thì **hoặc không đúng sự thật, hoặc chưa đủ căn cứ**.
-Chúng tôi xin nêu ra đây và khẳng định **không sử dụng chúng**, để Nhà trường thấy rõ tinh thần trình
-bày của chúng tôi:
-
-| Nội dung không sử dụng | Lý do |
-|---|---|
-| Nói rằng đơn vị này "có sai phạm tại Bệnh viện Nhi đồng thành phố Cần Thơ" | **Không đúng.** Bên bị kết luận sai phạm hành chính là **bệnh viện**, không phải doanh nghiệp. Doanh nghiệp là bên thuê đã đề nghị giảm giá trong giai đoạn dịch bệnh và được chấp thuận — việc này hợp pháp và doanh nghiệp không bị xử phạt |
-| Một vụ việc báo chí nêu năm 2021 | Báo **viết tắt tên doanh nghiệp**, không nêu danh tính. Không có khởi tố, không có bản án, không có kết luận nào được công bố. Nêu ra là quy kết cho một chủ thể chưa được xác định |
-| Thông tin "Nam Phong bỏ địa chỉ kinh doanh" | Đó là một **doanh nghiệp khác** có tên gần giống, mã số thuế khác hoàn toàn |
-| Gọi việc từng bị loại hồ sơ ở một gói thầu khác là "vi phạm" | Bị loại hồ sơ dự thầu **không phải là vi phạm pháp luật**. Có thể nêu như một dữ kiện về mức độ kỹ lưỡng khi làm hồ sơ, nhưng không được gọi là vi phạm |
-| Hai địa chỉ trụ sở khác nhau trong hồ sơ | Do **sáp nhập đơn vị hành chính** (Hậu Giang về Cần Thơ từ 01/07/2025), không phải lỗi của doanh nghiệp |
-| Cho rằng ngành nghề đăng ký không phù hợp | Doanh nghiệp có **đủ mã ngành** bán buôn, bán lẻ thực phẩm và dịch vụ ăn uống, **phù hợp** với điều kiện (1) của Quy chế |
-
-**Nói ngắn gọn:** qua tra cứu công khai, đơn vị trúng đấu giá **không có vi phạm pháp lý nào** — không
-tìm thấy công bố nợ thuế, không nợ bảo hiểm xã hội, không có bản án, không bị xử phạt, không bị cấm
-tham gia đấu thầu. Vì vậy chúng tôi **không đề cập gì đến tư cách của đơn vị**, mà chỉ đề nghị Nhà
-trường đối chiếu đúng những điều kiện định lượng mà chính Quy chế đã đặt ra.
-
----
-
-## 6 · Bản thảo văn bản kính trình
+## 5 · Bản thảo văn bản kính trình
 
 > Điền các chỗ trong ngoặc trước khi gửi.
 
@@ -356,18 +333,6 @@ Trân trọng cảm ơn./.
 「Ngày ... tháng ... năm 2026」
 
 「Đại diện đơn vị · ký tên, đóng dấu」
-
----
-
-## 7 · Về thời điểm và cách gửi
-
-- Đây là **đấu giá tài sản**, không phải đấu thầu mua sắm, nên không áp dụng quy trình kiến nghị của
-  Luật Đấu thầu. Kênh phù hợp là **văn bản gửi trực tiếp người có tài sản đấu giá, tức Nhà trường**.
-- **Thời điểm quyết định là trước khi hai bên ký hợp đồng khai thác.** Sau khi hợp đồng đã ký, văn bản
-  này gần như không còn giá trị thực tế.
-- Nên gửi **văn bản có số, có chữ ký và đóng dấu**, lưu bản gửi và giữ bằng chứng đã gửi.
-- Giữ đúng giọng **đề nghị đối chiếu**, không chuyển sang giọng tố cáo. Các nội dung đã nêu tại mục 5
-  không đưa vào văn bản dưới bất kỳ hình thức nào.
 
 ---
 
